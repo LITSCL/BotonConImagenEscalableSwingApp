@@ -11,7 +11,6 @@ import javax.swing.JButton;
 import javax.swing.ImageIcon;
 
 public class StartFrame extends JFrame {
-
 	private JPanel contentPane;
 	private JButton btnBoton;
 
